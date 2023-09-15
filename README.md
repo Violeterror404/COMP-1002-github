@@ -1,2 +1,3 @@
-# COMP-1002-github
-github learning
+# COMP-1002-GitHub
+GitHub learning
+My first repo
